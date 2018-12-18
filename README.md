@@ -101,7 +101,7 @@
 
 - **（推荐）**[TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)：Accompanying source code for 《Machine Learning with TensorFlow》
 
-- TensorFlow: 实战Google深度学习框架
+- [TensorFlow: 实战Google深度学习框架](https://github.com/caicloud/tensorflow-tutorial)
 
 - [《21个项目玩转深度学习—基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)
 
