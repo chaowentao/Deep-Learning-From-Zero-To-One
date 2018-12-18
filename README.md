@@ -3,7 +3,8 @@
 
 **正在学List**
 
-- [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)  [TensorFlow-Tutorial](http://Tensorflow-Tutorial)
+- [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
+- [莫烦Numpy & Pandas 教程](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
 
 **已完成List**
 
