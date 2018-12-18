@@ -1,4 +1,4 @@
-# Deep Learning-From-Zero-To-One
+# Deep Learning From-Zero-To-One
 记录自己学习Deep Learning的笔记和代码
 
 **正在学List**
