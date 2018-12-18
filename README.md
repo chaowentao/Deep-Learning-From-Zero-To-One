@@ -5,13 +5,14 @@
 
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 - [莫烦Numpy & Pandas 教程](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
+- [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302)
 
 **已完成List**
 
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) 完成时间：2018年12月
 - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 完成时间：2018年11月
 
-## TensorFlow 参考学习资料
+## Deep Learning 参考学习资料
 
 ### TensorFlow入门指南
 
@@ -50,7 +51,7 @@
 - [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)
 
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)：Introduction to Deep Neural Networks with Keras and Tensorflow
-
+- [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
   ​
 
 ### **视频教程**
@@ -69,8 +70,10 @@
 
   - [视频](https://www.bilibili.com/video/av9156347/?from=search&seid=6905181275544516403)
   - [GitHub](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
-
+  
 - **（推荐）**[Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)：该课程虽然为Machine Learning，但代码全使用TensorFlow，有实战意义
+
+- [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io)
 
 - [Udacity](https://cn.udacity.com/course/deep-learning--ud730)  (优达学城TensorFlow教程)
 
@@ -82,6 +85,7 @@
 
 - [TensorFlow实用课程](http://study.163.com/course/courseMain.htm?courseId=1005167033&share=1&shareId=1020102948) [ tensorflow-practice](https://github.com/yule-li/tensorflow-practice)
 
+- [](https://www.bilibili.com/video/av9770302)
   ​
 
 ### **书籍资源**
