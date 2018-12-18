@@ -4,7 +4,9 @@
 **正在学List**
 
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)  [TensorFlow-Tutorial](http://Tensorflow-Tutorial)
+
 **已完成List**
+
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) 完成时间：2018年12月
 
 ## TensorFlow 参考学习资料
