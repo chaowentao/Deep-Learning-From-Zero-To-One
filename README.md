@@ -9,6 +9,7 @@
 **已完成List**
 
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) 完成时间：2018年12月
+- [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 完成时间：2018年11月
 
 ## TensorFlow 参考学习资料
 
