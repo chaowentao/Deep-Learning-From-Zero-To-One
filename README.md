@@ -56,7 +56,6 @@
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)：Introduction to Deep Neural Networks with Keras and Tensorflow
 
 - **（已完成）**[廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-  ​
 
 ### **视频教程**
 
@@ -84,14 +83,13 @@
 
 **国内**
 
-- **(在学ing)**[莫烦TensorFlow教程] (https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)  [TensorFlow-Tutorial](http://Tensorflow-Tutorial)
+- **(在学ing)**[莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)  [TensorFlow-Tutorial](http://Tensorflow-Tutorial)
 
 - [深度学习框架-Tensorflow基础入门](http://study.163.com/course/introduction/1004113066.htm?share=1&shareId=1020102948)
 
 - [TensorFlow实用课程](http://study.163.com/course/courseMain.htm?courseId=1005167033&share=1&shareId=1020102948) [ tensorflow-practice](https://github.com/yule-li/tensorflow-practice)
 
 - [](https://www.bilibili.com/video/av9770302)
-  ​
 
 ### **书籍资源**
 
@@ -107,7 +105,6 @@
 
 - [《21个项目玩转深度学习—基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)
 
-  ​
 
 ### 实战项目
 
