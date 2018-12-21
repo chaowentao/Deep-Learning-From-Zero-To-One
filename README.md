@@ -5,11 +5,15 @@
 
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 
-- [莫烦Numpy & Pandas 教程](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
-
 - [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302)
 
 **已完成List**
+
+- [莫烦Sklearn 教程](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/)
+
+- [莫烦Matplotlib 教程](https://morvanzhou.github.io/tutorials/data-manipulation/plt/) 完成时间：2018年12月
+
+- [莫烦Numpy & Pandas 教程](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/) 完成时间：2018年12月
 
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) 完成时间：2018年12月
 
