@@ -11,7 +11,7 @@
 
 **已完成List**
 
-- [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
+- [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/) 完成时间：2018年12月
 
 - [莫烦Sklearn 教程](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/) 完成时间：2018年12月
 
