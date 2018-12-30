@@ -5,6 +5,10 @@
 
 - [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302)
 
+- [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?p=1)
+
+- [深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)
+
 **已完成List**
 
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
