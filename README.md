@@ -7,7 +7,7 @@
 
 - [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?p=1)
 
-- [深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)
+- [李宏毅机器学习(2017)教程](https://www.bilibili.com/video/av10590361?from=search&seid=731979293703154393)
 
 **已完成List**
 
@@ -22,6 +22,8 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) 完成时间：2018年12月
 
 - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 完成时间：2018年11月
+
+- [炼数成金 深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)  完成时间：2019年01月
 
 ## Deep Learning 参考学习资料
 
