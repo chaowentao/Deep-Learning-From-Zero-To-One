@@ -10,6 +10,7 @@
 - [李宏毅机器学习(2017)教程](https://www.bilibili.com/video/av10590361?from=search&seid=731979293703154393)
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese)
+
 **已完成List**
 
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/) 完成时间：2018年12月
