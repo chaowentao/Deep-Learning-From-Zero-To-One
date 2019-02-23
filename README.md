@@ -13,6 +13,8 @@
 
 **已完成List**
 
+- [炼数成金 深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)  完成时间：2019年01月
+
 - [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/) 完成时间：2018年12月
 
 - [莫烦Sklearn 教程](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/) 完成时间：2018年12月
@@ -25,7 +27,7 @@
 
 - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 完成时间：2018年11月
 
-- [炼数成金 深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)  完成时间：2019年01月
+
 
 ## Deep Learning 参考学习资料
 
