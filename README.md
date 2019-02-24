@@ -11,7 +11,7 @@
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese)
 
-- [吴恩达神经网络和深度学习](https://mooc.study.163.com/course/2001281002#/info)
+- [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
 
 **已完成List**
 
