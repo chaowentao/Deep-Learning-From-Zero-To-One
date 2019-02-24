@@ -11,6 +11,8 @@
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese)
 
+- [吴恩达神经网络和深度学习](https://mooc.study.163.com/course/2001281002#/info)
+
 **已完成List**
 
 - [炼数成金 深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)  完成时间：2019年01月
