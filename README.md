@@ -5,8 +5,6 @@
 
 - [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302)
 
-- [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?p=1)
-
 - [李宏毅机器学习(2017)教程](https://www.bilibili.com/video/av10590361?from=search&seid=731979293703154393)
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese)
@@ -14,6 +12,8 @@
 - [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
 
 **已完成List**
+
+- [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?p=1) 完成时间：2019年03月
 
 - [炼数成金 深度学习框架Tensorflow学习与应用](https://www.bilibili.com/video/av20542427/?p=1)  完成时间：2019年01月
 
