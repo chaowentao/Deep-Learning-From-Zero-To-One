@@ -9,9 +9,9 @@
 
 - [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
 
-- [李宏毅对抗生成网络(GAN)国语教程(2018)](https://www.bilibili.com/video/av24011528)
-
 **已完成List**
+
+- [李宏毅对抗生成网络(GAN)国语教程(2018)](https://www.bilibili.com/video/av24011528) 完成时间：2019年04月
 
 - [李宏毅机器学习(2017)教程](https://www.bilibili.com/video/av10590361?from=search&seid=731979293703154393) 完成时间：2019年03月
 
