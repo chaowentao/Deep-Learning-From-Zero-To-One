@@ -77,6 +77,10 @@
 
 - **（已完成）**[廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+- [Deep Learning（花书）笔记](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
+
+- [Deep Learning Rules of Thumb](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
+
 ### **视频教程**
 
 **国外**
