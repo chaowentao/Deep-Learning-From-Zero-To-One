@@ -3,7 +3,7 @@
 
 **正在学List**
 
-- [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese)
+- [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
 
 - [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
 
