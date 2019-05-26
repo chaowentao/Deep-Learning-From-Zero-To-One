@@ -11,6 +11,8 @@
 
 **已完成List**
 
+- [零基础入门学习Python【第一版】](https://fishc.com.cn/) 完成时间：2019年05月
+
 - [李宏毅机器学习2019(国语)](https://www.bilibili.com/video/av46561029?p=1) 完成时间：2019年05月
 
 - [李宏毅对抗生成网络(GAN)国语教程(2018)](https://www.bilibili.com/video/av24011528) 完成时间：2019年04月
