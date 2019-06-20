@@ -7,11 +7,17 @@
 
 - [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
 
-- [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302)
+- [Stanford CS224n: Natural Language Processing with Deep Learning Winter 2019](https://www.bilibili.com/video/av47113620)
+
+- [李宏毅深度强化学习(国语)课程(2018)](https://www.bilibili.com/video/av24724071)
+
+- [强化学习 Reinforcement Learning (莫烦 Python 教程)](https://www.bilibili.com/video/av16921335)
 
 **已完成List**
 
-- [零基础入门学习Python【第一版】](https://fishc.com.cn/) 完成时间：2019年05月
+- [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302) 完成时间：2019年06月
+
+- [小甲鱼零基础入门学习Python【第一版】](https://fishc.com.cn/) 完成时间：2019年05月
 
 - [李宏毅机器学习2019(国语)](https://www.bilibili.com/video/av46561029?p=1) 完成时间：2019年05月
 
