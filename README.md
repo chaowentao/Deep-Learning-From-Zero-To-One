@@ -5,7 +5,7 @@
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
 
-- [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info)
+- [DeeCamp人工智能训练营预习课(一)](https://classroom.udacity.com/)
 
 - [Stanford CS224n: Natural Language Processing with Deep Learning Winter 2019](https://www.bilibili.com/video/av47113620)
 
@@ -14,6 +14,8 @@
 - [强化学习 Reinforcement Learning (莫烦 Python 教程)](https://www.bilibili.com/video/av16921335)
 
 **已完成List**
+
+- [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info) 完成时间：2019年07月
 
 - [李宏毅深度学习(2017)教程](https://www.bilibili.com/video/av9770302) 完成时间：2019年06月
 
