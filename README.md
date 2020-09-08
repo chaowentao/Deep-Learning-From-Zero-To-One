@@ -4,6 +4,8 @@
 **正在学List**
 - [三维重建](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547)
 
+- [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861)
+
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
 
 - [DeeCamp人工智能训练营预习课(一)](https://classroom.udacity.com/)
