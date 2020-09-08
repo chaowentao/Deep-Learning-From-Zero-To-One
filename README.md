@@ -2,7 +2,7 @@
 记录自己学习Deep Learning的笔记和代码
 
 **正在学List**
-- [三维重建](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547)
+- [三维重建 3D Reconstruction](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547)
 
 - [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861)
 
