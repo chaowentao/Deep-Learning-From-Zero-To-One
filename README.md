@@ -2,8 +2,8 @@
 记录自己学习Deep Learning的笔记和代码
 
 **正在学List**
-- [计算机视觉:计算理论与算法基础]
-- [计算机视觉--算法与运用（中文）]
+- [计算机视觉:计算理论与算法基础]()
+- [计算机视觉--算法与运用（中文）]()
 - [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861)
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
@@ -18,7 +18,7 @@
 
 **已完成List**
 
-- [三维重建 3D Reconstruction](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547)
+- [三维重建 3D Reconstruction](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547) 完成时间：2020年09月
 
 - [神经网络和深度学习- 吴恩达（Andrew Ng）](https://mooc.study.163.com/course/2001281002#/info) 完成时间：2019年07月
 
