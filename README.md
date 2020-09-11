@@ -2,8 +2,8 @@
 记录自己学习Deep Learning的笔记和代码
 
 **正在学List**
-- [计算机视觉:计算理论与算法基础]()
-- [计算机视觉--算法与运用（中文）]()
+- [计算机视觉:计算理论与算法基础](https://pan.baidu.com/)
+- [计算机视觉--算法与运用（中文）](https://pan.baidu.com/)
 - [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861)
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
