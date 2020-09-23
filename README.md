@@ -4,7 +4,8 @@
 **正在学List**
 - [计算机视觉:计算理论与算法基础](https://pan.baidu.com/)
 - [计算机视觉--算法与运用（中文）](https://pan.baidu.com/)
-- [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861)
+
+- [机器学习实战(人物版)](https://www.manning.com/books/machine-learning-in-action)
 
 - [Deep Learning（花书）](https://github.com/chaowentao/deeplearningbook-chinese) [课程](https://ke.qq.com/course/277276)
 
@@ -17,6 +18,8 @@
 - [强化学习 Reinforcement Learning (莫烦 Python 教程)](https://www.bilibili.com/video/av16921335)
 
 **已完成List**
+
+- [Python编程：从入门到实践](https://www.ituring.com.cn/book/1861) 完成时间：2020年09月
 
 - [三维重建 3D Reconstruction](https://www.bilibili.com/video/BV1pk4y167eE?from=search&seid=4395544655203956547) 完成时间：2020年09月
 
